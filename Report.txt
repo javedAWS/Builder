@@ -1,0 +1,11 @@
+The number of unique customer ID for each Contract Id 2346 are = 2
+The number of unique customer ID for each Contract Id 2345 are = 3
+The number of unique customer ID for each geozone eu_west are = 2
+The number of unique customer ID for each geozone us_west are = 2
+The number of unique customer ID for each geozone us_east are = 1
+The average of buildduration for each geozone eu_west are = 4222.0
+The average of buildduration for each geozone us_west are = 2216.0
+The average of buildduration for each geozone us_east are = 3445.0
+The list of unique customerId for each geozone eu_west are = [3244132, 3244332]
+The list of unique customerId for each geozone us_west are = [1233456, 1223456]
+The list of unique customerId for each geozone us_east are = [2343225]
